@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"
+     xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle"
+     xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Avlana Updates</title>
+    <link>https://teamavlana.github.io/avlana-updates/</link>
+    <description>Update feed for the Avlana app</description>
+    <language>en</language>
+
+    <item>
+      <title>Version 0.0.1</title>
+      <sparkle:releaseNotesLink>https://teamavlana.github.io/avlana-updates/release-notes.html</sparkle:releaseNotesLink>
+      <pubDate>Mon, 15 Apr 2025 21:00:00 +0000</pubDate>
+      <enclosure
+        url="https://teamavlana.github.io/avlana-updates/Avlana.zip"
+        sparkle:version="0.0.1"
+        sparkle:shortVersionString="0.0.1"
+        sparkle:edSignature="rrHGBuLhH5OBDQa4zRrbX034/06gl4wa7HN2MN2RUGkgEVR+IS/q8mzC6ZIJxHE40iP5OPr9D+4v0QDfd3B6AA=="
+        length="37448969"
+        type="application/octet-stream"/>
+    </item>
+  </channel>
+</rss>
