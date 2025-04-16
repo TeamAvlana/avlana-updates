@@ -9,17 +9,17 @@
     <language>en</language>
 
     <item>
-      <title>Version 0.0.2</title>
+      <title>Version 0.0.3</title>
       <sparkle:releaseNotesLink>https://teamavlana.github.io/avlana-updates/release-notes.html</sparkle:releaseNotesLink>
       <pubDate><!-- Update this to the current date/time in RFC 2822 format, e.g., -->
-        Tue, 15 Apr 2025 22:00:00 +0000
+        Wed, 16 Apr 2025 13:13:00 +0000
       </pubDate>
       <enclosure
         url="https://teamavlana.github.io/avlana-updates/Avlana.zip"
-        sparkle:version="0.0.2"
-        sparkle:shortVersionString="0.0.2"
-        sparkle:edSignature="nMhIeRfSOTzkJDh+FxU3sYcc9NPxREQla4J289r5eTFimy9EQYyEVX21Jxl/s1RUn5jWLHbVxwZF6GNr7I/BDg=="
-        length="37573115"
+        sparkle:version="0.0.3"
+        sparkle:shortVersionString="0.0.3"
+        sparkle:edSignature="CeFmUwF6vCJKg2TgqgSXMCznggCoTQf8wGxahf+Em9YVhzRiHjOxq6Cgd53VKvU2y+teCP72OrdxRH3cUa9NAw=="
+        length="37541844"
         type="application/octet-stream"/>
     </item>
   </channel>
