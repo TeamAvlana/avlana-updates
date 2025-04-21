@@ -8,6 +8,21 @@
     <description>Update feed for the Avlana app</description>
     <language>en</language>
 
+
+    <item>
+      <title>Version 0.0.4</title>
+      <sparkle:releaseNotesLink>https://teamavlana.github.io/avlana-updates/release-notes.html</sparkle:releaseNotesLink>
+      <pubDate>Mon, 21 Apr 2025 21:40:00 +0000</pubDate>
+      <enclosure
+        url="https://teamavlana.github.io/avlana-updates/Avlana.zip"
+        sparkle:version="2"
+        sparkle:shortVersionString="0.0.4"
+        sparkle:edSignature="bHXL7y26a3AbN5QzjxIWEOOTSTyzaBEOQf4vz3hA0EUhqJl/gWnlthvyVDDwkh8EWyl7wGR+dg/HS67djqEJCA=="
+        length="37735634"
+        type="application/octet-stream"/>
+    </item>
+
+
     <item>
       <title>Version 0.0.4</title>
       <sparkle:releaseNotesLink>https://teamavlana.github.io/avlana-updates/release-notes.html</sparkle:releaseNotesLink>
