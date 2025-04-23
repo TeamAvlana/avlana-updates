@@ -11,13 +11,13 @@
     <item>
       <title>Version 0.0.4+3</title>
       <sparkle:releaseNotesLink>https://teamavlana.github.io/avlana-updates/release-notes.html</sparkle:releaseNotesLink>
-      <pubDate>Wed, 23 Apr 2025 13:08:36 +0200</pubDate>
+      <pubDate>Wed, 23 Apr 2025 13:38:40 +0200</pubDate>
       <enclosure
         url="https://teamavlana.github.io/avlana-updates/Avlana.zip"
         sparkle:version="3"
         sparkle:shortVersionString="0.0.4"
-        sparkle:edSignature="MPhhbjDDI38vko6N2Y//f4MYy4EMcJHv/rILwKG3o7vaLfQQEAT25/J8mugKCeHhBnkXXXmQ5NylDfPkCEMMBQ=="
-        length="37584126"
+        sparkle:edSignature="c7d4LoOO/KyTNLjYiOxnzc1T4O0VPMDoYjrCMVmTBZNDnQmdZ7xeAqdNAdC1RQVcjHvp83lMbdGOzvjtL6dRCg=="
+        length="37697492"
         type="application/octet-stream"/>
     </item>
 
