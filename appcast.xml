@@ -14,7 +14,7 @@
       <pubDate>Wed, 23 Apr 2025 13:38:40 +0200</pubDate>
       <enclosure
         url="https://teamavlana.github.io/avlana-updates/Avlana.zip"
-        sparkle:version="3"
+        sparkle:version="9"
         sparkle:shortVersionString="0.0.4"
         sparkle:edSignature="c7d4LoOO/KyTNLjYiOxnzc1T4O0VPMDoYjrCMVmTBZNDnQmdZ7xeAqdNAdC1RQVcjHvp83lMbdGOzvjtL6dRCg=="
         length="37697492"
@@ -28,7 +28,7 @@
       <pubDate>Mon, 21 Apr 2025 21:40:00 +0000</pubDate>
       <enclosure
         url="https://teamavlana.github.io/avlana-updates/Avlana.zip"
-        sparkle:version="2"
+        sparkle:version="8"
         sparkle:shortVersionString="0.0.4"
         sparkle:edSignature="bHXL7y26a3AbN5QzjxIWEOOTSTyzaBEOQf4vz3hA0EUhqJl/gWnlthvyVDDwkh8EWyl7wGR+dg/HS67djqEJCA=="
         length="37735634"
@@ -42,7 +42,7 @@
       <pubDate>Mon, 21 Apr 2025 08:35:00 +0000</pubDate>
       <enclosure
         url="https://teamavlana.github.io/avlana-updates/Avlana.zip"
-        sparkle:version="1"
+        sparkle:version="7"
         sparkle:shortVersionString="0.0.4"
         sparkle:edSignature="bc9jGruoVBVOLhxhH7HR7Cawqzw6K+9b3QaLLGJ6Jt12TBCMZDeRAHeLaDRG+vvMFD3qTCrddo/ilT2xDNjWCA=="
         length="37735665"
@@ -55,7 +55,7 @@
       <pubDate>Mon, 21 Apr 2025 07:39:00 +0000</pubDate>
       <enclosure
         url="https://teamavlana.github.io/avlana-updates/Avlana.zip"
-        sparkle:version="5"
+        sparkle:version="6"
         sparkle:shortVersionString="0.0.3"
         sparkle:edSignature="98XjQkEC2bqmbjBixQaBOEA5IrGOai4sSBGudBJ8V3u5gp6de4wZEjI41eupSIJAWCkeeJ+/4lTKsLbt4PIhAw=="
         length="37722568"
@@ -68,7 +68,7 @@
       <pubDate>Wed, 16 Apr 2025 16:39:00 +0000</pubDate>
       <enclosure
         url="https://teamavlana.github.io/avlana-updates/Avlana.zip"
-        sparkle:version="4"
+        sparkle:version="5"
         sparkle:shortVersionString="0.0.3"
         sparkle:edSignature="7VUcdW4nT5VQ+WYYaewSsYtX7w/t7GHmg+aM10hPum4FtApRp/LEDIwN1aoZvLKTIeFDQ4fsKC2gbqZKMahXDg=="
         length="37554434"
@@ -81,7 +81,7 @@
       <pubDate>Wed, 16 Apr 2025 13:55:00 +0000</pubDate>
       <enclosure
         url="https://teamavlana.github.io/avlana-updates/Avlana.zip"
-        sparkle:version="3"
+        sparkle:version="4"
         sparkle:shortVersionString="0.0.3"
         sparkle:edSignature="6JSI6iA5JHEOv5v/lZHZXP7C0VGCm3W34xzxppDJB5giu4gMBs+Qt/j3fnBVNfb/t3wsriGSB1QZZuEIU3oKCQ=="
         length="37550032"
@@ -94,7 +94,7 @@
       <pubDate>Wed, 16 Apr 2025 13:13:00 +0000</pubDate>
       <enclosure
         url="https://teamavlana.github.io/avlana-updates/Avlana.zip"
-        sparkle:version="0.0.3"
+        sparkle:version="3"
         sparkle:shortVersionString="0.0.3"
         sparkle:edSignature="CeFmUwF6vCJKg2TgqgSXMCznggCoTQf8wGxahf+Em9YVhzRiHjOxq6Cgd53VKvU2y+teCP72OrdxRH3cUa9NAw=="
         length="37541844"
@@ -107,7 +107,7 @@
       <pubDate>Tue, 15 Apr 2025 22:00:00 +0000</pubDate>
       <enclosure
         url="https://teamavlana.github.io/avlana-updates/Avlana.zip"
-        sparkle:version="0.0.2"
+        sparkle:version="2"
         sparkle:shortVersionString="0.0.2"
         sparkle:edSignature="nMhIeRfSOTzkJDh+FxU3sYcc9NPxREQla4J289r5eTFimy9EQYyEVX21Jxl/s1RUn5jWLHbVxwZF6GNr7I/BDg=="
         length="37573115"
@@ -120,7 +120,7 @@
       <pubDate>Mon, 15 Apr 2025 21:00:00 +0000</pubDate>
       <enclosure
         url="https://teamavlana.github.io/avlana-updates/Avlana.zip"
-        sparkle:version="0.0.1"
+        sparkle:version="1"
         sparkle:shortVersionString="0.0.1"
         sparkle:edSignature="rrHGBuLhH5OBDQa4zRrbX034/06gl4wa7HN2MN2RUGkgEVR+IS/q8mzC6ZIJxHE40iP5OPr9D+4v0QDfd3B6AA=="
         length="37448969"
