@@ -8,6 +8,20 @@
     <description>Update feed for the Avlana app</description>
     <language>en</language>
 
+
+     <item>
+      <title>Version 0.1.0</title>
+      <sparkle:releaseNotesLink>https://teamavlana.github.io/avlana-updates/release-notes.html</sparkle:releaseNotesLink>
+      <pubDate></pubDate>
+      <enclosure
+        url="https://storage.googleapis.com/avlana-deliverables/Avlana-0.1.0%2B11.zip"
+        sparkle:version="11"
+        sparkle:shortVersionString="0.1.0"
+        sparkle:edSignature="09ya2omn7ufdR2SQ1IDxY/UNPwsAsXMtALlGSNF2GOfwULQyX6bI/PcSLdRE/E0r/BExpp9fAH5z4jSlRrz/CQ=="
+        length="4238380905"
+        type="application/octet-stream"/>
+    </item>
+
     <item>
       <title>Version 0.0.5</title>
       <sparkle:releaseNotesLink>https://teamavlana.github.io/avlana-updates/release-notes.html</sparkle:releaseNotesLink>
