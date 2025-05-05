@@ -8,6 +8,18 @@
     <description>Update feed for the Avlana app</description>
     <language>en</language>
 
+    <item>
+      <title>Version 0.1.6</title>
+      <sparkle:releaseNotesLink>https://teamavlana.github.io/avlana-updates/release-notes.html</sparkle:releaseNotesLink>
+      <pubDate>Mon, 05 May 2025 14:52:32 +0200</pubDate>
+      <enclosure
+        url="https://storage.googleapis.com/avlana-deliverables/Avlana%200.1.6.dmg"
+        sparkle:version="16"
+        sparkle:shortVersionString="0.1.6"
+        sparkle:edSignature="l/RyFLTNYfI/qRoH3mzImYJah7W4VNjsNyxiOMtcvLs/PxcX+BFvTcdkhe1ZsG1KNS7rm4Gc8Y/1f4qeNnXuDQ=="
+        length="2578863135"
+        type="application/octet-stream"/>
+    </item>
 
      <item>
       <title>Version 0.1.0</title>
