@@ -8,6 +8,45 @@
     <description>Update feed for the Avlana app</description>
     <language>en</language>
 
+     <item>
+      <title>Version 0.1.13</title>
+      <sparkle:releaseNotesLink>https://teamavlana.github.io/avlana-updates/release-notes.html</sparkle:releaseNotesLink>
+      <pubDate>Fri, 23 May 2025 10:28:26 +0200</pubDate>
+      <enclosure
+        url="https://storage.googleapis.com/avlana-deliverables/Avlana%200.1.13.dmg"
+        sparkle:version="23"
+        sparkle:shortVersionString="0.1.13"
+        sparkle:edSignature="ljht8lzbjRgjEK1E8hpkU2yH6t6+Q3NeJh1dA0TWMtN1E9lR1o62UpHlIlh0nAPievpqsWkTbhXhE49gpm+4Ag=="
+        length="2579250835"
+        type="application/octet-stream"/>
+    </item>
+
+    <item>
+      <title>Version 0.1.12</title>
+      <sparkle:releaseNotesLink>https://teamavlana.github.io/avlana-updates/release-notes.html</sparkle:releaseNotesLink>
+      <pubDate>Wed, 21 May 2025 17:08:15 +0200</pubDate>
+      <enclosure
+        url="https://storage.googleapis.com/avlana-deliverables/Avlana%200.1.12.dmg"
+        sparkle:version="22"
+        sparkle:shortVersionString="0.1.12"
+        sparkle:edSignature="QTbW1FWCJDbTFXDfbTAvAsQUhE2onXiFst50H/CjIHBo7q/OQgaOn+DsUt18NQFKXzkuM7VuVU0uGQfci4p8Bg=="
+        length="1704376935"
+        type="application/octet-stream"/>
+    </item>
+
+    <item>
+      <title>Version 0.1.11</title>
+      <sparkle:releaseNotesLink>https://teamavlana.github.io/avlana-updates/release-notes.html</sparkle:releaseNotesLink>
+      <pubDate>Wed, 21 May 2025 14:20:08 +0200</pubDate>
+      <enclosure
+        url="https://storage.googleapis.com/avlana-deliverables/Avlana%200.1.11.dmg"
+        sparkle:version="21"
+        sparkle:shortVersionString="0.1.11"
+        sparkle:edSignature="4++Kjy+g/o31XtQXTJ1Kty1WJye9yiQ6arMwLjbMiUaO92uouStyicogf0xJfs7v57wMgU01avWg189OsNkpBQ=="
+        length="2579162542"
+        type="application/octet-stream"/>
+    </item>
+
     <item>
       <title>Version 0.1.10</title>
       <sparkle:releaseNotesLink>https://teamavlana.github.io/avlana-updates/release-notes.html</sparkle:releaseNotesLink>
