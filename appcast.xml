@@ -9,19 +9,6 @@
     <language>en</language>
 
     <item>
-      <title>Version 0.1.17</title>
-      <sparkle:releaseNotesLink>https://teamavlana.github.io/avlana-updates/release-notes.html</sparkle:releaseNotesLink>
-      <pubDate>Tue, 10 Jun 2025 14:47:47 +0200</pubDate>
-      <enclosure
-        url="https://storage.googleapis.com/avlana-deliverables/Avlana%200.1.17.dmg"
-        sparkle:version="27"
-        sparkle:shortVersionString="0.1.17"
-        sparkle:edSignature="t44QccBYGFcwjOiT+dpAcqWTEaIIQHcgGU0uBNeN3kNJjflA7DXPyZYb+Ht3etTnSm0lJkgO0ymXgRg66h+lDQ=="
-        length="2575624771"
-        type="application/octet-stream"/>
-    </item>
-
-    <item>
       <title>Version 0.1.16</title>
       <sparkle:releaseNotesLink>https://teamavlana.github.io/avlana-updates/release-notes.html</sparkle:releaseNotesLink>
       <pubDate>Wed, 04 Jun 2025 09:32:25 +0200</pubDate>
